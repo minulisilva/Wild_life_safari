@@ -122,6 +122,5 @@ http://localhost/wildlifesafari/index.php
 ## ⚠️ Notes
 
 * Ensure PHP sessions are enabled for login functionality
-* Keep `images/`, `js/`, and `stylesheets/` directories properly linked
 * Verify database connection before running the project
 * Default configuration uses local MySQL credentials
